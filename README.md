@@ -4,7 +4,7 @@ SVG icons for *Medal of Honor: Allied Assault* and its two expansions.
 
 | Original&nbsp;design | New&nbsp;design | Game | Based on |
 |:-:|:-:|---|---|
-| <img src="originals/mohaa.png" width="64" alt="Original Allied Assault icon"> | <img src="mohaa.svg?v=4" width="64" alt="Allied Assault icon"> | Allied Assault | The Allied star: the star-in-a-circle marking painted on Allied vehicles in WWII. It has no background, so whatever is behind it shows through the gaps. |
+| <img src="originals/mohaa.png" width="64" alt="Original Allied Assault icon"> | <img src="mohaa.svg?v=5" width="64" alt="Allied Assault icon"> | Allied Assault | The Allied star: the star-in-a-circle marking painted on Allied vehicles in WWII. It has no background, so whatever is behind it shows through the gaps. |
 | <img src="originals/mohaa-spearhead.png" width="64" alt="Original Spearhead icon"> | <img src="mohaa-spearhead.svg?v=2" width="64" alt="Spearhead icon"> | Spearhead | The military chevron: three stacked like a sergeant's stripes. The chevrons are curved, like real rank insignia, instead of the original icon's straight ones. |
 | <img src="originals/mohaa-breakthrough.png" width="64" alt="Original Breakthrough icon"> | <img src="mohaa-breakthrough.svg?v=3" width="64" alt="Breakthrough icon"> | Breakthrough | The US Army Special Forces patch: a dagger crossed by three lightning bolts. |
 | | <img src="mohaa-launcher.svg" width="64" alt="Launcher icon, transparent background"> | Launcher | A chain link, for connecting to a server. Like the Allied Assault icon, it has no background, so whatever is behind it shows through the gaps. |
