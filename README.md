@@ -35,11 +35,19 @@ The HUD's team icons, redrawn from the markings they come from. The originals ar
 
 The HUD's 41 weapon pictures and its 3 kill feed icons (the glove, the headshot and the skull), as outlines. They start from the white silhouettes of Project: Omaha's HUD, PNGs 42 to 606 pixels across, in [`originals/weapons/`](originals/weapons) and [`originals/killfeed/`](originals/killfeed).
 
-[`weapons/traced/`](weapons/traced) and [`killfeed/traced/`](killfeed/traced) are the first step, before any polishing: each PNG traced into curves and corners with potrace, unedited. An SVG's viewBox is its PNG's size in pixels, so the two line up exactly. Filled again at that size, each covers the same pixels as its PNG to within 1.5 % on average, and where the PNG's edge steps from pixel to pixel the outline follows it in small waves. The polished outlines will go in `weapons/` and `killfeed/` themselves, beside these, for a before and after.
+[`weapons/traced/`](weapons/traced) and [`killfeed/traced/`](killfeed/traced) are the first step, before any polishing: each PNG traced into curves and corners with potrace, unedited. An SVG's viewBox is its PNG's size in pixels, so the two line up exactly. Filled again at that size, each covers the same pixels as its PNG to within 1.5 % on average, and where the PNG's edge steps from pixel to pixel the outline follows it in small waves. The polished outlines are in [`weapons/`](weapons) itself, beside these.
 
 Like the originals they are white, the colour the HUD tints, so they don't show on a white page. Here they are on dark grey:
 
 <img src="weapons/preview-traced.png" alt="The 44 traced outlines, white on dark grey: rifles, submachine guns, pistols, grenades, launchers, and the glove, headshot and skull icons">
+
+### Polished
+
+The polished outlines are drawn again from the same PNGs, as clean vectors: edges that are straight on the weapon are exactly straight, corners are crisp, and curved parts such as grips, trigger guards and stocks are smooth, with none of the pixel steps left. Which parts are curved is judged from renders and pictures of the weapon; the Thompson's grip and stock follow a picture of a real M1A1. Each still lines up with its PNG to within about a pixel, in a quarter to a fifth of the trace's segments, and is the same kind of file: one white path, the viewBox the PNG's size, holes running against the shapes around them.
+
+So far the Kar98k, the Thompson and the Colt .45 are done; the rest of *Allied Assault*'s own weapons are to follow, the bazooka and the Panzerschreck aside. Traced against polished:
+
+<img src="weapons/preview-polished.png" alt="The Kar98k, Thompson and Colt .45 outlines, white on dark grey: each trace on the left, its polished outline on the right">
 
 ## Logo
 
