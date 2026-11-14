@@ -2,7 +2,7 @@
 
 SVG icons for *Medal of Honor: Allied Assault* and its two expansions.
 
-Files are sorted by section: [`icons/`](icons) for the game icons, [`launcher/`](launcher) for the launcher icons, [`team/`](team) for the team icons, and [`logo/`](logo) for the logos, in [`original/`](logo/original), [`cinzel/`](logo/cinzel), [`wordmark/`](logo/wordmark) and [`impact/`](logo/impact). The games' own icons and logo are in [`originals/`](originals), and the *Call of Duty* logos in [`comparison/`](comparison).
+Files are sorted by section: [`icons/`](icons) for the game icons, [`launcher/`](launcher) for the launcher icons, [`team/`](team) for the team icons, [`weapons/`](weapons) and [`killfeed/`](killfeed) for the HUD's weapon pictures and kill feed icons, and [`logo/`](logo) for the logos, in [`original/`](logo/original), [`cinzel/`](logo/cinzel), [`wordmark/`](logo/wordmark) and [`impact/`](logo/impact). The games' own icons and logo are in [`originals/`](originals), with the HUD pictures the weapons are traced from, and the *Call of Duty* logos in [`comparison/`](comparison).
 
 | Original&nbsp;design | New&nbsp;design | Alternative | Game | Based on |
 |:-:|:-:|:-:|---|---|
@@ -30,6 +30,16 @@ The HUD's team icons, redrawn from the markings they come from. The originals ar
 |:-:|:-:|---|---|
 | <img src="originals/allies.png" width="64" alt="Original Allies team icon"> | <img src="team/allies.svg" width="64" alt="Allies team icon: a white star on a blue disc with a red centre"> | Allies | The US national aircraft insignia of 19 August 1919 to May 1942, to its official proportions: the star's points touch the blue disc, and the red centre's edge touches the sides of the pentagon inside the star (its radius is the disc's × cos 72°). Blue `#1A1E3B`, white `#FFFFFF` and red `#DE0000`, the colours of the Wikimedia Commons version. |
 | <img src="originals/axis.png" width="64" alt="Original Axis team icon"> | <img src="team/axis.svg" width="64" alt="Axis team icon: a black Iron Cross with a white outline on a red disc"> | Axis | The Iron Cross: a black cross with straight flared arms and an even white outline, on the original's red disc. The red is the game's Axis team colour, not part of the cross, and pairs the badge with the Allies disc. Red `#A90303`, white `#FFFFFF` and black `#000000`. |
+
+## Weapons
+
+The HUD's 41 weapon pictures and its 3 kill feed icons (the glove, the headshot and the skull), as outlines. They start from the white silhouettes of Project: Omaha's HUD, PNGs 42 to 606 pixels across, in [`originals/weapons/`](originals/weapons) and [`originals/killfeed/`](originals/killfeed).
+
+[`weapons/traced/`](weapons/traced) and [`killfeed/traced/`](killfeed/traced) are the first step, before any polishing: each PNG traced into curves and corners with potrace, unedited. An SVG's viewBox is its PNG's size in pixels, so the two line up exactly. Filled again at that size, each covers the same pixels as its PNG to within 1.5 % on average, and where the PNG's edge steps from pixel to pixel the outline follows it in small waves. The polished outlines will go in `weapons/` and `killfeed/` themselves, beside these, for a before and after.
+
+Like the originals they are white, the colour the HUD tints, so they don't show on a white page. Here they are on dark grey:
+
+<img src="weapons/preview-traced.png" alt="The 44 traced outlines, white on dark grey: rifles, submachine guns, pistols, grenades, launchers, and the glove, headshot and skull icons">
 
 ## Logo
 
@@ -97,4 +107,4 @@ With OF, the star bar and AA in a column after MEDAL and HONOR, which are spaced
 
 ## Credits
 
-The original logo is [`originals/mohaa-logo.svg`](originals/mohaa-logo.svg), from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mohaa_logo.svg), unchanged; its lettering is Adobe Garamond Semibold. The other lettering is [Cinzel](https://github.com/NDISCOVER/Cinzel) and [Michroma](https://github.com/googlefonts/Michroma-font) (both SIL Open Font License 1.1), Impact (Monotype) and Hitmarker (Activision). All lettering is converted to outlines, so no font needs installing. *Medal of Honor* is a trademark of Electronic Arts, and *Call of Duty* of Activision. The Allies team icon is the US national aircraft insignia, a US government work in the public domain, matching the [Wikimedia Commons drawing](https://commons.wikimedia.org/wiki/File:Roundel_of_the_United_States_(1919%E2%80%931941).svg). The Axis cross is drawn here from scratch.
+The original logo is [`originals/mohaa-logo.svg`](originals/mohaa-logo.svg), from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mohaa_logo.svg), unchanged; its lettering is Adobe Garamond Semibold. The other lettering is [Cinzel](https://github.com/NDISCOVER/Cinzel) and [Michroma](https://github.com/googlefonts/Michroma-font) (both SIL Open Font License 1.1), Impact (Monotype) and Hitmarker (Activision). All lettering is converted to outlines, so no font needs installing. *Medal of Honor* is a trademark of Electronic Arts, and *Call of Duty* of Activision. The Allies team icon is the US national aircraft insignia, a US government work in the public domain, matching the [Wikimedia Commons drawing](https://commons.wikimedia.org/wiki/File:Roundel_of_the_United_States_(1919%E2%80%931941).svg). The Axis cross is drawn here from scratch. The weapon pictures and kill feed icons come from Project: Omaha's HUD, used with its author's permission.
