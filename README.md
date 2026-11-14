@@ -45,9 +45,9 @@ Like the originals they are white, the colour the HUD tints, so they don't show 
 
 The polished outlines are drawn again from the same PNGs, as clean vectors: edges that are straight on the weapon are exactly straight, corners are crisp, and curved parts such as grips, trigger guards and stocks are smooth, with none of the pixel steps left. Which parts are curved is judged from renders and pictures of the weapon; the Thompson's grip and stock follow a picture of a real M1A1. Each still lines up with its PNG to within about a pixel, in a quarter to a fifth of the trace's segments, and is the same kind of file: one white path, the viewBox the PNG's size, holes running against the shapes around them.
 
-So far the Kar98k, the Thompson and the Colt .45 are done; the rest of *Allied Assault*'s own weapons are to follow, the bazooka and the Panzerschreck aside. Traced against polished:
+So far the Kar98k, the Thompson, the Colt .45 and the MP40 are done; the rest of *Allied Assault*'s own weapons are to follow, the bazooka and the Panzerschreck aside. Traced against polished:
 
-<img src="weapons/preview-polished.png" alt="The Kar98k, Thompson and Colt .45 outlines, white on dark grey: each trace on the left, its polished outline on the right">
+<img src="weapons/preview-polished.png" alt="The Kar98k, Thompson, Colt .45 and MP40 outlines, white on dark grey: each trace on the left, its polished outline on the right">
 
 ## Logo
 
