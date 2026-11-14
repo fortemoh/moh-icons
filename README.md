@@ -32,4 +32,14 @@ The *Medal of Honor: Allied Assault* logo: MEDAL, OF over a bar of five stars, H
 | <img src="mohaa-logo-cinzel-white.svg" width="240" alt="Medal of Honor: Allied Assault logo in Cinzel, white"> | <img src="mohaa-logo-cinzel-white-reloaded.svg" width="240" alt="Medal of Honor Reloaded logo in Cinzel, white"> | The Cinzel version in white, with no plate. |
 | <img src="mohaa-logo-cinzel-gold.svg" width="240" alt="Medal of Honor: Allied Assault logo in Cinzel, gold"> | <img src="mohaa-logo-cinzel-gold-reloaded.svg" width="240" alt="Medal of Honor Reloaded logo in Cinzel, gold"> | The Cinzel version in the icons' gold (`#B8962E`), with no plate. |
 
-The original logo is [`originals/mohaa-logo.svg`](originals/mohaa-logo.svg), from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mohaa_logo.svg), kept unchanged. Its lettering is Adobe Garamond Semibold, converted to outlines. The rebuilt logos' lettering is [Cinzel](https://github.com/NDISCOVER/Cinzel) (SIL Open Font License 1.1), also converted to outlines, so none of the files needs a font installed. *Medal of Honor* and its logo are trademarks of Electronic Arts.
+### Impact wordmark
+
+A single-line MEDAL OF HONOR, laid out like the pre-2023 *Call of Duty* wordmark: MEDAL and HONOR in Impact, with a small OF between them over the bar of five stars, in the original logo's proportions. OF and the bar together are centred on the height of MEDAL and HONOR.
+
+| Logo | Version |
+|:-:|---|
+| <img src="mohaa-logo-impact.svg" width="320" alt="Medal of Honor wordmark in Impact"> | In the original logo's colours: steel blue `#98BADF` on dark grey `#414141`. |
+| <img src="mohaa-logo-impact-white-on-black.svg" width="320" alt="Medal of Honor wordmark in Impact, white on black"> | White on black. |
+| <img src="mohaa-logo-impact-black-on-white.svg" width="320" alt="Medal of Honor wordmark in Impact, black on white"> | Black on white. |
+
+The original logo is [`originals/mohaa-logo.svg`](originals/mohaa-logo.svg), from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mohaa_logo.svg), kept unchanged. Its lettering is Adobe Garamond Semibold, converted to outlines. The rebuilt logos' lettering is [Cinzel](https://github.com/NDISCOVER/Cinzel) (SIL Open Font License 1.1), and the Impact wordmark's is Impact (Monotype); both are converted to outlines, so none of the files needs a font installed. *Medal of Honor* and its logo are trademarks of Electronic Arts.
