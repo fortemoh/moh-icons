@@ -17,4 +17,17 @@ All the icons use the same gold (`#B8962E`). Like the Allied star, the Spearhead
 
 The originals are the games' 32×32 icons, kept in [`originals/`](originals).
 
-The wordmark's lettering is set in [Cinzel](https://github.com/NDISCOVER/Cinzel) (SIL Open Font License 1.1), converted to outlines so the icon needs no font installed.
+The wordmark launcher icon's lettering is set in [Cinzel](https://github.com/NDISCOVER/Cinzel) (SIL Open Font License 1.1), converted to outlines so the icon needs no font installed.
+
+## Logo
+
+The *Medal of Honor: Allied Assault* logo: MEDAL, OF over a bar of five stars, HONOR and ALLIED ASSAULT inside a stepped frame. None of the versions has shadows.
+
+| Logo | File | Notes |
+|:-:|---|---|
+| <img src="mohaa-logo.svg" width="240" alt="Medal of Honor: Allied Assault logo"> | `mohaa-logo.svg` | The original logo with its drop shadows removed. Without them its stars, the same blue as their bar, disappeared, so they are drawn in the plate's grey. Otherwise unchanged. |
+| <img src="mohaa-logo-hitmarker.svg" width="240" alt="Medal of Honor: Allied Assault logo in Hitmarker"> | `mohaa-logo-hitmarker.svg` | Rebuilt from scratch with the lettering in Hitmarker Normal Bold, in the original's colours: steel blue `#98BADF` on a dark grey `#414141` plate. The lines keep the original's heights and layout, and the frame is fitted around the lettering with the original's margins. The stars are cut out of the bar. |
+| <img src="mohaa-logo-hitmarker-white.svg" width="240" alt="Medal of Honor: Allied Assault logo in Hitmarker, white"> | `mohaa-logo-hitmarker-white.svg` | The same in white, with no plate, so whatever is behind it shows through. |
+| <img src="mohaa-logo-hitmarker-gold.svg" width="240" alt="Medal of Honor: Allied Assault logo in Hitmarker, gold"> | `mohaa-logo-hitmarker-gold.svg` | The same in the icons' gold (`#B8962E`), with no plate. |
+
+The original logo is [`originals/mohaa-logo.svg`](originals/mohaa-logo.svg), from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mohaa_logo.svg), kept unchanged. Its lettering is Adobe Garamond Semibold, converted to outlines. The rebuilt logos' lettering is Hitmarker (© Activision 2023), also converted to outlines, so none of the files needs a font installed. *Medal of Honor* and its logo are trademarks of Electronic Arts.
