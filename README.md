@@ -8,7 +8,6 @@ SVG icons for *Medal of Honor: Allied Assault* and its two expansions.
 | <img src="originals/mohaa-spearhead.png" width="64" alt="Original Spearhead icon"> | <img src="mohaa-spearhead.svg?v=2" width="64" alt="Spearhead icon"> | <img src="mohaa-spearhead-transparent.svg" width="64" alt="Spearhead icon, transparent background"> | Spearhead | Three curved rank chevrons. The alternative has no background. |
 | <img src="originals/mohaa-breakthrough.png" width="64" alt="Original Breakthrough icon"> | <img src="mohaa-breakthrough.svg?v=4" width="64" alt="Breakthrough icon"> | <img src="mohaa-breakthrough-transparent.svg" width="64" alt="Breakthrough icon, transparent background"> | Breakthrough | The Special Forces patch: a dagger and three lightning bolts. The alternative has no background. |
 | | <img src="mohaa-launcher.svg" width="64" alt="Launcher icon, transparent background"> | <img src="mohaa-launcher-chevrons.svg" width="64" alt="Launcher icon: two chevrons over a curved banner"> | Launcher | A chain link, for connecting to a server. The alternative is two chevrons over a banner, after the Call of Duty Companion logo. |
-| | <img src="mohaa-launcher-logo.svg" width="64" alt="Launcher icon with the Medal of Honor: Allied Assault wordmark"> | | Launcher (alternative) | The game's wordmark in the ring. Hard to read below 64px. |
 
 All the icons use the same gold (`#B8962E`), and the emblems break through the ring. Spearhead and Breakthrough keep their original backgrounds: green `#244C31` and indigo `#2C2564`. The originals are the games' 32×32 icons, in [`originals/`](originals).
 
@@ -24,6 +23,16 @@ The *Allied Assault* logo without its shadows. Each version also comes with RELO
 | <img src="mohaa-logo-cinzel-transparent.svg" width="240" alt="Medal of Honor: Allied Assault logo in Cinzel, transparent"> | <img src="mohaa-logo-cinzel-reloaded-transparent.svg" width="240" alt="Medal of Honor Reloaded logo in Cinzel, transparent"> | Cinzel, without the plate. |
 | <img src="mohaa-logo-cinzel-white.svg" width="240" alt="Medal of Honor: Allied Assault logo in Cinzel, white"> | <img src="mohaa-logo-cinzel-white-reloaded.svg" width="240" alt="Medal of Honor Reloaded logo in Cinzel, white"> | Cinzel, white. |
 | <img src="mohaa-logo-cinzel-gold.svg" width="240" alt="Medal of Honor: Allied Assault logo in Cinzel, gold"> | <img src="mohaa-logo-cinzel-gold-reloaded.svg" width="240" alt="Medal of Honor Reloaded logo in Cinzel, gold"> | Cinzel, gold (`#B8962E`). |
+
+### Cinzel wordmark
+
+The wordmark from the old launcher icon, without its ring: MEDAL, OF over the star bar, HONOR and ALLIED ASSAULT in Cinzel.
+
+| Wordmark | Version |
+|:-:|---|
+| <img src="mohaa-wordmark.svg" width="240" alt="Medal of Honor: Allied Assault wordmark in Cinzel, gold"> | Gold (`#B8962E`). |
+| <img src="mohaa-wordmark-white.svg" width="240" alt="Medal of Honor: Allied Assault wordmark in Cinzel, white"> | White. |
+| <img src="mohaa-wordmark-blue.svg" width="240" alt="Medal of Honor: Allied Assault wordmark in Cinzel, steel blue"> | Steel blue (`#98BADF`). |
 
 ### Impact wordmarks
 
@@ -51,4 +60,4 @@ The same stacked like the 2023 *Call of Duty* logo, shown here for comparison:
 
 ## Credits
 
-The original logo is [`originals/mohaa-logo.svg`](originals/mohaa-logo.svg), from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mohaa_logo.svg), unchanged; its lettering is Adobe Garamond Semibold. The wordmark launcher and the Cinzel logos use [Cinzel](https://github.com/NDISCOVER/Cinzel) (SIL Open Font License 1.1), and the Impact wordmarks use Impact (Monotype). All lettering is converted to outlines, so no font needs installing. The *Call of Duty* logos are in [`comparison/`](comparison). *Medal of Honor* is a trademark of Electronic Arts, and *Call of Duty* of Activision.
+The original logo is [`originals/mohaa-logo.svg`](originals/mohaa-logo.svg), from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mohaa_logo.svg), unchanged; its lettering is Adobe Garamond Semibold. The Cinzel wordmark and logos use [Cinzel](https://github.com/NDISCOVER/Cinzel) (SIL Open Font License 1.1), and the Impact wordmarks use Impact (Monotype). All lettering is converted to outlines, so no font needs installing. The *Call of Duty* logos are in [`comparison/`](comparison). *Medal of Honor* is a trademark of Electronic Arts, and *Call of Duty* of Activision.
