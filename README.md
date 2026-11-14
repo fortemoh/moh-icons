@@ -24,15 +24,20 @@ The *Allied Assault* logo without its shadows. Each version also comes with RELO
 | <img src="mohaa-logo-cinzel-white.svg" width="240" alt="Medal of Honor: Allied Assault logo in Cinzel, white"> | <img src="mohaa-logo-cinzel-white-reloaded.svg" width="240" alt="Medal of Honor Reloaded logo in Cinzel, white"> | Cinzel, white. |
 | <img src="mohaa-logo-cinzel-gold.svg" width="240" alt="Medal of Honor: Allied Assault logo in Cinzel, gold"> | <img src="mohaa-logo-cinzel-gold-reloaded.svg" width="240" alt="Medal of Honor Reloaded logo in Cinzel, gold"> | Cinzel, gold (`#B8962E`). |
 
-### Cinzel wordmark
+### Wordmark
 
-The wordmark from the old launcher icon, without its ring: MEDAL, OF over the star bar, HONOR and ALLIED ASSAULT in Cinzel.
+MEDAL, OF over the star bar, HONOR and ALLIED ASSAULT, with no frame or ring, in each font we tried. Each font keeps its own letter spacing, so narrow fonts come out taller.
 
-| Wordmark | Version |
-|:-:|---|
-| <img src="mohaa-wordmark.svg" width="240" alt="Medal of Honor: Allied Assault wordmark in Cinzel, gold"> | Gold (`#B8962E`). |
-| <img src="mohaa-wordmark-white.svg" width="240" alt="Medal of Honor: Allied Assault wordmark in Cinzel, white"> | White. |
-| <img src="mohaa-wordmark-blue.svg" width="240" alt="Medal of Honor: Allied Assault wordmark in Cinzel, steel blue"> | Steel blue (`#98BADF`). |
+| Gold | White | Steel blue | Font |
+|:-:|:-:|:-:|---|
+| <img src="mohaa-wordmark.svg" width="160" alt="Medal of Honor: Allied Assault wordmark in Cinzel, gold"> | <img src="mohaa-wordmark-white.svg" width="160" alt="Medal of Honor: Allied Assault wordmark in Cinzel, white"> | <img src="mohaa-wordmark-blue.svg" width="160" alt="Medal of Honor: Allied Assault wordmark in Cinzel, steel blue"> | Cinzel Bold, from the old launcher icon. |
+| <img src="mohaa-wordmark-garamond.svg" width="160" alt="Medal of Honor: Allied Assault wordmark in Garamond, gold"> | <img src="mohaa-wordmark-garamond-white.svg" width="160" alt="Medal of Honor: Allied Assault wordmark in Garamond, white"> | <img src="mohaa-wordmark-garamond-blue.svg" width="160" alt="Medal of Honor: Allied Assault wordmark in Garamond, steel blue"> | The original logo's own letters (Adobe Garamond Semibold). |
+| <img src="mohaa-wordmark-hitmarker.svg" width="160" alt="Medal of Honor: Allied Assault wordmark in Hitmarker, gold"> | <img src="mohaa-wordmark-hitmarker-white.svg" width="160" alt="Medal of Honor: Allied Assault wordmark in Hitmarker, white"> | <img src="mohaa-wordmark-hitmarker-blue.svg" width="160" alt="Medal of Honor: Allied Assault wordmark in Hitmarker, steel blue"> | Hitmarker Normal Bold, the *Call of Duty* typeface. |
+| <img src="mohaa-wordmark-impact.svg" width="160" alt="Medal of Honor: Allied Assault wordmark in Impact, gold"> | <img src="mohaa-wordmark-impact-white.svg" width="160" alt="Medal of Honor: Allied Assault wordmark in Impact, white"> | <img src="mohaa-wordmark-impact-blue.svg" width="160" alt="Medal of Honor: Allied Assault wordmark in Impact, steel blue"> | Impact. |
+| <img src="mohaa-wordmark-anton.svg" width="160" alt="Medal of Honor: Allied Assault wordmark in Anton, gold"> | <img src="mohaa-wordmark-anton-white.svg" width="160" alt="Medal of Honor: Allied Assault wordmark in Anton, white"> | <img src="mohaa-wordmark-anton-blue.svg" width="160" alt="Medal of Honor: Allied Assault wordmark in Anton, steel blue"> | Anton, a free stand-in for Impact. |
+| <img src="mohaa-wordmark-michroma.svg" width="160" alt="Medal of Honor: Allied Assault wordmark in Michroma, gold"> | <img src="mohaa-wordmark-michroma-white.svg" width="160" alt="Medal of Honor: Allied Assault wordmark in Michroma, white"> | <img src="mohaa-wordmark-michroma-blue.svg" width="160" alt="Medal of Honor: Allied Assault wordmark in Michroma, steel blue"> | Michroma, made bolder like the *Counter-Strike 2* lettering. |
+
+Gold is `#B8962E` and steel blue `#98BADF`.
 
 ### Impact wordmarks
 
@@ -60,4 +65,4 @@ The same stacked like the 2023 *Call of Duty* logo, shown here for comparison:
 
 ## Credits
 
-The original logo is [`originals/mohaa-logo.svg`](originals/mohaa-logo.svg), from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mohaa_logo.svg), unchanged; its lettering is Adobe Garamond Semibold. The Cinzel wordmark and logos use [Cinzel](https://github.com/NDISCOVER/Cinzel) (SIL Open Font License 1.1), and the Impact wordmarks use Impact (Monotype). All lettering is converted to outlines, so no font needs installing. The *Call of Duty* logos are in [`comparison/`](comparison). *Medal of Honor* is a trademark of Electronic Arts, and *Call of Duty* of Activision.
+The original logo is [`originals/mohaa-logo.svg`](originals/mohaa-logo.svg), from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mohaa_logo.svg), unchanged; its lettering is Adobe Garamond Semibold. The other lettering is [Cinzel](https://github.com/NDISCOVER/Cinzel), [Anton](https://github.com/googlefonts/AntonFont) and [Michroma](https://github.com/googlefonts/Michroma-font) (all SIL Open Font License 1.1), Impact (Monotype) and Hitmarker (Activision). All lettering is converted to outlines, so no font needs installing. The *Call of Duty* logos are in [`comparison/`](comparison). *Medal of Honor* is a trademark of Electronic Arts, and *Call of Duty* of Activision.
