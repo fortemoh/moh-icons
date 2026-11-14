@@ -14,6 +14,14 @@ Files are sorted by section: [`icons/`](icons) for the game icons, [`launcher/`]
 
 All the icons use the same gold (`#B8962E`), and the emblems break through the ring. Spearhead and Breakthrough keep their original backgrounds: green `#244C31` and indigo `#2C2564`. The originals are the games' 32×32 icons, in [`originals/`](originals).
 
+The launcher icons also come in white and steel blue (`#98BADF`):
+
+| Gold | White | Steel blue | Launcher icon |
+|:-:|:-:|:-:|---|
+| <img src="launcher/mohaa-launcher.svg" width="64" alt="Chain link launcher icon, gold"> | <img src="launcher/mohaa-launcher-white.svg" width="64" alt="Chain link launcher icon, white"> | <img src="launcher/mohaa-launcher-blue.svg" width="64" alt="Chain link launcher icon, steel blue"> | Chain link. |
+| <img src="launcher/mohaa-launcher-chevrons.svg" width="64" alt="Chevrons launcher icon, gold"> | <img src="launcher/mohaa-launcher-chevrons-white.svg" width="64" alt="Chevrons launcher icon, white"> | <img src="launcher/mohaa-launcher-chevrons-blue.svg" width="64" alt="Chevrons launcher icon, steel blue"> | Chevrons. |
+| <img src="launcher/mohaa-launcher-chevrons-wordmark.svg" width="64" alt="Chevrons over the Impact wordmark launcher icon, gold"> | <img src="launcher/mohaa-launcher-chevrons-wordmark-white.svg" width="64" alt="Chevrons over the Impact wordmark launcher icon, white"> | <img src="launcher/mohaa-launcher-chevrons-wordmark-blue.svg" width="64" alt="Chevrons over the Impact wordmark launcher icon, steel blue"> | Chevrons over the Impact wordmark. |
+
 ## Logo
 
 The *Allied Assault* logo without its shadows, in its original font (the logo's own Adobe Garamond letters, with stars cut out of the bar) and rebuilt in Cinzel Bold. Each comes with RELOADED in place of ALLIED ASSAULT too, with the frame narrowed around it; in the original font, RELOADED uses letters from the logo itself.
