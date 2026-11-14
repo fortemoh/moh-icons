@@ -50,16 +50,16 @@ MEDAL OF HONOR on one line in Impact, like the pre-2023 *Call of Duty* wordmark,
 | <img src="mohaa-logo-impact-black-on-white.svg" width="320" alt="Medal of Honor wordmark in Impact, black on white"> | <img src="mohaa-logo-impact-no-bar-black-on-white.svg" width="320" alt="Medal of Honor wordmark in Impact, black on white, without the star bar"> | Black on white. |
 | <img src="mohaa-logo-impact-gold.svg" width="320" alt="Medal of Honor wordmark in Impact, gold"> | <img src="mohaa-logo-impact-no-bar-gold.svg" width="320" alt="Medal of Honor wordmark in Impact, gold, without the star bar"> | Gold (`#B8962E`), no background. |
 
-The same stacked like the 2023 *Call of Duty* logo, shown here for comparison:
+The same stacked like the 2023 *Call of Duty* logo, shown here for comparison. A third version puts OF and the bar after MEDAL, and AA after HONOR, set like OF:
 
 <img src="comparison/cod-logo-2023.png" width="240" alt="The 2023 Call of Duty logo">
 
-| With the star bar | Without | Version |
-|:-:|:-:|---|
-| <img src="mohaa-logo-impact-stacked.svg" width="240" alt="Stacked Medal of Honor wordmark in Impact"> | <img src="mohaa-logo-impact-stacked-no-bar.svg" width="240" alt="Stacked Medal of Honor wordmark in Impact, without the star bar"> | Original colours: `#98BADF` on `#414141`. |
-| <img src="mohaa-logo-impact-stacked-white-on-black.svg" width="240" alt="Stacked Medal of Honor wordmark in Impact, white on black"> | <img src="mohaa-logo-impact-stacked-no-bar-white-on-black.svg" width="240" alt="Stacked Medal of Honor wordmark in Impact, white on black, without the star bar"> | White on black. |
-| <img src="mohaa-logo-impact-stacked-black-on-white.svg" width="240" alt="Stacked Medal of Honor wordmark in Impact, black on white"> | <img src="mohaa-logo-impact-stacked-no-bar-black-on-white.svg" width="240" alt="Stacked Medal of Honor wordmark in Impact, black on white, without the star bar"> | Black on white. |
-| <img src="mohaa-logo-impact-stacked-gold.svg" width="240" alt="Stacked Medal of Honor wordmark in Impact, gold"> | <img src="mohaa-logo-impact-stacked-no-bar-gold.svg" width="240" alt="Stacked Medal of Honor wordmark in Impact, gold, without the star bar"> | Gold (`#B8962E`), no background. |
+| With the star bar | Without | OF and AA after the words | Version |
+|:-:|:-:|:-:|---|
+| <img src="mohaa-logo-impact-stacked.svg" width="240" alt="Stacked Medal of Honor wordmark in Impact"> | <img src="mohaa-logo-impact-stacked-no-bar.svg" width="240" alt="Stacked Medal of Honor wordmark in Impact, without the star bar"> | <img src="mohaa-logo-impact-stacked-aa.svg" width="240" alt="Stacked Medal of Honor wordmark in Impact with AA"> | Original colours: `#98BADF` on `#414141`. |
+| <img src="mohaa-logo-impact-stacked-white-on-black.svg" width="240" alt="Stacked Medal of Honor wordmark in Impact, white on black"> | <img src="mohaa-logo-impact-stacked-no-bar-white-on-black.svg" width="240" alt="Stacked Medal of Honor wordmark in Impact, white on black, without the star bar"> | <img src="mohaa-logo-impact-stacked-aa-white-on-black.svg" width="240" alt="Stacked Medal of Honor wordmark in Impact with AA, white on black"> | White on black. |
+| <img src="mohaa-logo-impact-stacked-black-on-white.svg" width="240" alt="Stacked Medal of Honor wordmark in Impact, black on white"> | <img src="mohaa-logo-impact-stacked-no-bar-black-on-white.svg" width="240" alt="Stacked Medal of Honor wordmark in Impact, black on white, without the star bar"> | <img src="mohaa-logo-impact-stacked-aa-black-on-white.svg" width="240" alt="Stacked Medal of Honor wordmark in Impact with AA, black on white"> | Black on white. |
+| <img src="mohaa-logo-impact-stacked-gold.svg" width="240" alt="Stacked Medal of Honor wordmark in Impact, gold"> | <img src="mohaa-logo-impact-stacked-no-bar-gold.svg" width="240" alt="Stacked Medal of Honor wordmark in Impact, gold, without the star bar"> | <img src="mohaa-logo-impact-stacked-aa-gold.svg" width="240" alt="Stacked Medal of Honor wordmark in Impact with AA, gold"> | Gold (`#B8962E`), no background. |
 
 ## Credits
 
