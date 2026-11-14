@@ -34,13 +34,13 @@ The *Medal of Honor: Allied Assault* logo: MEDAL, OF over a bar of five stars, H
 
 ### Impact wordmarks
 
-A single-line MEDAL OF HONOR, laid out like the pre-2023 *Call of Duty* wordmark: MEDAL and HONOR in Impact, with a small OF between them over the bar of five stars, in the original logo's proportions. OF and the bar together are centred on the height of MEDAL and HONOR.
+A single-line MEDAL OF HONOR, laid out like the pre-2023 *Call of Duty* wordmark: MEDAL and HONOR in Impact, with a small OF between them over the bar of five stars, in the original logo's proportions. OF and the bar together are centred on the height of MEDAL and HONOR. Each colour also comes without the bar, with OF at the same size and centred on its own, as in the *Call of Duty* wordmark.
 
-| Logo | Version |
-|:-:|---|
-| <img src="mohaa-logo-impact.svg" width="320" alt="Medal of Honor wordmark in Impact"> | In the original logo's colours: steel blue `#98BADF` on dark grey `#414141`. |
-| <img src="mohaa-logo-impact-white-on-black.svg" width="320" alt="Medal of Honor wordmark in Impact, white on black"> | White on black. |
-| <img src="mohaa-logo-impact-black-on-white.svg" width="320" alt="Medal of Honor wordmark in Impact, black on white"> | Black on white. |
+| With the star bar | Without | Version |
+|:-:|:-:|---|
+| <img src="mohaa-logo-impact.svg" width="320" alt="Medal of Honor wordmark in Impact"> | <img src="mohaa-logo-impact-no-bar.svg" width="320" alt="Medal of Honor wordmark in Impact, without the star bar"> | In the original logo's colours: steel blue `#98BADF` on dark grey `#414141`. |
+| <img src="mohaa-logo-impact-white-on-black.svg" width="320" alt="Medal of Honor wordmark in Impact, white on black"> | <img src="mohaa-logo-impact-no-bar-white-on-black.svg" width="320" alt="Medal of Honor wordmark in Impact, white on black, without the star bar"> | White on black. |
+| <img src="mohaa-logo-impact-black-on-white.svg" width="320" alt="Medal of Honor wordmark in Impact, black on white"> | <img src="mohaa-logo-impact-no-bar-black-on-white.svg" width="320" alt="Medal of Honor wordmark in Impact, black on white, without the star bar"> | Black on white. |
 
 A stacked version, laid out like the 2023 *Call of Duty* logo: MEDAL over OF HONOR. OF is top-aligned with HONOR under the M, and HONOR starts where MEDAL's E starts, so the second line runs past the first. OF and the star bar under it are together as tall as HONOR. Each colour also comes without the bar, with OF at the same size and in the same place.
 
