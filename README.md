@@ -2,7 +2,7 @@
 
 SVG icons for *Medal of Honor: Allied Assault* and its two expansions.
 
-Files are sorted by section: [`icons/`](icons) for the game icons, [`launcher/`](launcher) for the launcher icons, and [`logo/`](logo) for the logos, in [`original/`](logo/original), [`cinzel/`](logo/cinzel), [`wordmark/`](logo/wordmark) and [`impact/`](logo/impact). The games' own icons and logo are in [`originals/`](originals), and the *Call of Duty* logos in [`comparison/`](comparison).
+Files are sorted by section: [`icons/`](icons) for the game icons, [`launcher/`](launcher) for the launcher icons, [`team/`](team) for the team icons, and [`logo/`](logo) for the logos, in [`original/`](logo/original), [`cinzel/`](logo/cinzel), [`wordmark/`](logo/wordmark) and [`impact/`](logo/impact). The games' own icons and logo are in [`originals/`](originals), and the *Call of Duty* logos in [`comparison/`](comparison).
 
 | Original&nbsp;design | New&nbsp;design | Alternative | Game | Based on |
 |:-:|:-:|:-:|---|---|
@@ -21,6 +21,14 @@ The launcher icons also come in white and steel blue (`#98BADF`):
 | <img src="launcher/mohaa-launcher.svg" width="64" alt="Chain link launcher icon, gold"> | <img src="launcher/mohaa-launcher-white.svg" width="64" alt="Chain link launcher icon, white"> | <img src="launcher/mohaa-launcher-blue.svg" width="64" alt="Chain link launcher icon, steel blue"> | Chain link. |
 | <img src="launcher/mohaa-launcher-chevrons.svg" width="64" alt="Chevrons launcher icon, gold"> | <img src="launcher/mohaa-launcher-chevrons-white.svg" width="64" alt="Chevrons launcher icon, white"> | <img src="launcher/mohaa-launcher-chevrons-blue.svg" width="64" alt="Chevrons launcher icon, steel blue"> | Chevrons. |
 | <img src="launcher/mohaa-launcher-chevrons-wordmark.svg" width="64" alt="Chevrons over the Impact wordmark launcher icon, gold"> | <img src="launcher/mohaa-launcher-chevrons-wordmark-white.svg" width="64" alt="Chevrons over the Impact wordmark launcher icon, white"> | <img src="launcher/mohaa-launcher-chevrons-wordmark-blue.svg" width="64" alt="Chevrons over the Impact wordmark launcher icon, steel blue"> | Chevrons over the Impact wordmark. |
+
+## Team icons
+
+The HUD's team icons, redrawn from the markings they come from. The originals are the game's 32×32 `textures/hud/allies.tga` and `axis.tga` (in `Pak1.pk3`).
+
+| Original&nbsp;design | New&nbsp;design | Team | Based on |
+|:-:|:-:|---|---|
+| <img src="originals/allies.png" width="64" alt="Original Allies team icon"> | <img src="team/allies.svg" width="64" alt="Allies team icon: a white star on a blue disc with a red centre"> | Allies | The US national aircraft insignia of 19 August 1919 to May 1942, to its official proportions: the star's points touch the blue disc, and the red centre's edge touches the sides of the pentagon inside the star (its radius is the disc's × cos 72°). Blue `#1A1E3B`, white `#FFFFFF` and red `#DE0000`, the colours of the Wikimedia Commons version. |
 
 ## Logo
 
@@ -88,4 +96,4 @@ With OF, the star bar and AA in a column after MEDAL and HONOR, which are spaced
 
 ## Credits
 
-The original logo is [`originals/mohaa-logo.svg`](originals/mohaa-logo.svg), from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mohaa_logo.svg), unchanged; its lettering is Adobe Garamond Semibold. The other lettering is [Cinzel](https://github.com/NDISCOVER/Cinzel) and [Michroma](https://github.com/googlefonts/Michroma-font) (both SIL Open Font License 1.1), Impact (Monotype) and Hitmarker (Activision). All lettering is converted to outlines, so no font needs installing. *Medal of Honor* is a trademark of Electronic Arts, and *Call of Duty* of Activision.
+The original logo is [`originals/mohaa-logo.svg`](originals/mohaa-logo.svg), from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mohaa_logo.svg), unchanged; its lettering is Adobe Garamond Semibold. The other lettering is [Cinzel](https://github.com/NDISCOVER/Cinzel) and [Michroma](https://github.com/googlefonts/Michroma-font) (both SIL Open Font License 1.1), Impact (Monotype) and Hitmarker (Activision). All lettering is converted to outlines, so no font needs installing. *Medal of Honor* is a trademark of Electronic Arts, and *Call of Duty* of Activision. The Allies team icon is the US national aircraft insignia, a US government work in the public domain, matching the [Wikimedia Commons drawing](https://commons.wikimedia.org/wiki/File:Roundel_of_the_United_States_(1919%E2%80%931941).svg).
