@@ -36,18 +36,28 @@ The *Medal of Honor: Allied Assault* logo: MEDAL, OF over a bar of five stars, H
 
 A single-line MEDAL OF HONOR, laid out like the pre-2023 *Call of Duty* wordmark: MEDAL and HONOR in Impact, with a small OF between them over the bar of five stars, in the original logo's proportions. OF and the bar together are centred on the height of MEDAL and HONOR. Each colour also comes without the bar, with OF at the same size and centred on its own, as in the *Call of Duty* wordmark.
 
+For comparison, the *Call of Duty* wordmark it follows, set the same way in Impact ([`comparison/cod-wordmark-pre-2023-impact.svg`](comparison/cod-wordmark-pre-2023-impact.svg)). It is a recreation from memory, not the original artwork, which has its own lettering:
+
+<img src="comparison/cod-wordmark-pre-2023-impact.svg" width="320" alt="The pre-2023 Call of Duty wordmark, recreated in Impact">
+
 | With the star bar | Without | Version |
 |:-:|:-:|---|
 | <img src="mohaa-logo-impact.svg" width="320" alt="Medal of Honor wordmark in Impact"> | <img src="mohaa-logo-impact-no-bar.svg" width="320" alt="Medal of Honor wordmark in Impact, without the star bar"> | In the original logo's colours: steel blue `#98BADF` on dark grey `#414141`. |
 | <img src="mohaa-logo-impact-white-on-black.svg" width="320" alt="Medal of Honor wordmark in Impact, white on black"> | <img src="mohaa-logo-impact-no-bar-white-on-black.svg" width="320" alt="Medal of Honor wordmark in Impact, white on black, without the star bar"> | White on black. |
 | <img src="mohaa-logo-impact-black-on-white.svg" width="320" alt="Medal of Honor wordmark in Impact, black on white"> | <img src="mohaa-logo-impact-no-bar-black-on-white.svg" width="320" alt="Medal of Honor wordmark in Impact, black on white, without the star bar"> | Black on white. |
+| <img src="mohaa-logo-impact-gold.svg" width="320" alt="Medal of Honor wordmark in Impact, gold"> | <img src="mohaa-logo-impact-no-bar-gold.svg" width="320" alt="Medal of Honor wordmark in Impact, gold, without the star bar"> | In the icons' gold (`#B8962E`), with no background, so whatever is behind it shows through the stars. |
 
 A stacked version, laid out like the 2023 *Call of Duty* logo: MEDAL over OF HONOR. OF is top-aligned with HONOR under the M, and HONOR starts where MEDAL's E starts, so the second line runs past the first. OF and the star bar under it are together as tall as HONOR. Each colour also comes without the bar, with OF at the same size and in the same place.
+
+For comparison, the 2023 *Call of Duty* logo it follows ([`comparison/cod-logo-2023.png`](comparison/cod-logo-2023.png)), unchanged:
+
+<img src="comparison/cod-logo-2023.png" width="240" alt="The 2023 Call of Duty logo">
 
 | With the star bar | Without | Version |
 |:-:|:-:|---|
 | <img src="mohaa-logo-impact-stacked.svg" width="240" alt="Stacked Medal of Honor wordmark in Impact"> | <img src="mohaa-logo-impact-stacked-no-bar.svg" width="240" alt="Stacked Medal of Honor wordmark in Impact, without the star bar"> | In the original logo's colours: steel blue `#98BADF` on dark grey `#414141`. |
 | <img src="mohaa-logo-impact-stacked-white-on-black.svg" width="240" alt="Stacked Medal of Honor wordmark in Impact, white on black"> | <img src="mohaa-logo-impact-stacked-no-bar-white-on-black.svg" width="240" alt="Stacked Medal of Honor wordmark in Impact, white on black, without the star bar"> | White on black. |
 | <img src="mohaa-logo-impact-stacked-black-on-white.svg" width="240" alt="Stacked Medal of Honor wordmark in Impact, black on white"> | <img src="mohaa-logo-impact-stacked-no-bar-black-on-white.svg" width="240" alt="Stacked Medal of Honor wordmark in Impact, black on white, without the star bar"> | Black on white. |
+| <img src="mohaa-logo-impact-stacked-gold.svg" width="240" alt="Stacked Medal of Honor wordmark in Impact, gold"> | <img src="mohaa-logo-impact-stacked-no-bar-gold.svg" width="240" alt="Stacked Medal of Honor wordmark in Impact, gold, without the star bar"> | In the icons' gold (`#B8962E`), with no background, so whatever is behind it shows through the stars. |
 
-The original logo is [`originals/mohaa-logo.svg`](originals/mohaa-logo.svg), from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mohaa_logo.svg), kept unchanged. Its lettering is Adobe Garamond Semibold, converted to outlines. The rebuilt logos' lettering is [Cinzel](https://github.com/NDISCOVER/Cinzel) (SIL Open Font License 1.1), and the Impact wordmarks' is Impact (Monotype); both are converted to outlines, so none of the files needs a font installed. *Medal of Honor* and its logo are trademarks of Electronic Arts.
+The original logo is [`originals/mohaa-logo.svg`](originals/mohaa-logo.svg), from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mohaa_logo.svg), kept unchanged. Its lettering is Adobe Garamond Semibold, converted to outlines. The rebuilt logos' lettering is [Cinzel](https://github.com/NDISCOVER/Cinzel) (SIL Open Font License 1.1), and the Impact wordmarks' is Impact (Monotype); both are converted to outlines, so none of the files needs a font installed. *Medal of Honor* and its logo are trademarks of Electronic Arts; *Call of Duty* and its logos are trademarks of Activision.
