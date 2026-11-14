@@ -14,16 +14,14 @@ All the icons use the same gold (`#B8962E`), and the emblems break through the r
 
 ## Logo
 
-The *Allied Assault* logo without its shadows. Each version also comes with RELOADED in place of ALLIED ASSAULT, with the frame narrowed around it.
+The *Allied Assault* logo without its shadows, in its original font (the logo's own Adobe Garamond letters, with stars cut out of the bar) and rebuilt in Cinzel Bold. Each comes with RELOADED in place of ALLIED ASSAULT too, with the frame narrowed around it; in the original font, RELOADED uses letters from the logo itself.
 
-| Allied Assault | Reloaded | Version |
-|:-:|:-:|---|
-| <img src="mohaa-logo.svg?v=2" width="240" alt="Medal of Honor: Allied Assault logo"> | <img src="mohaa-logo-reloaded.svg?v=3" width="240" alt="Medal of Honor Reloaded logo"> | The original, with stars cut out of the bar. RELOADED uses letters from the logo itself. |
-| <img src="mohaa-logo-transparent.svg" width="240" alt="Medal of Honor: Allied Assault logo, transparent"> | <img src="mohaa-logo-reloaded-transparent.svg?v=3" width="240" alt="Medal of Honor Reloaded logo, transparent"> | The original, without the plate. |
-| <img src="mohaa-logo-cinzel.svg" width="240" alt="Medal of Honor: Allied Assault logo in Cinzel"> | <img src="mohaa-logo-cinzel-reloaded.svg" width="240" alt="Medal of Honor Reloaded logo in Cinzel"> | Rebuilt in Cinzel Bold, in the original's colours: steel blue `#98BADF` on dark grey `#414141`. |
-| <img src="mohaa-logo-cinzel-transparent.svg" width="240" alt="Medal of Honor: Allied Assault logo in Cinzel, transparent"> | <img src="mohaa-logo-cinzel-reloaded-transparent.svg" width="240" alt="Medal of Honor Reloaded logo in Cinzel, transparent"> | Cinzel, without the plate. |
-| <img src="mohaa-logo-cinzel-white.svg" width="240" alt="Medal of Honor: Allied Assault logo in Cinzel, white"> | <img src="mohaa-logo-cinzel-white-reloaded.svg" width="240" alt="Medal of Honor Reloaded logo in Cinzel, white"> | Cinzel, white. |
-| <img src="mohaa-logo-cinzel-gold.svg" width="240" alt="Medal of Honor: Allied Assault logo in Cinzel, gold"> | <img src="mohaa-logo-cinzel-gold-reloaded.svg" width="240" alt="Medal of Honor Reloaded logo in Cinzel, gold"> | Cinzel, gold (`#B8962E`). |
+| Original font | Original font, Reloaded | Cinzel | Cinzel, Reloaded | Version |
+|:-:|:-:|:-:|:-:|---|
+| <img src="mohaa-logo.svg?v=2" width="180" alt="Medal of Honor: Allied Assault logo"> | <img src="mohaa-logo-reloaded.svg?v=3" width="180" alt="Medal of Honor Reloaded logo"> | <img src="mohaa-logo-cinzel.svg" width="180" alt="Medal of Honor: Allied Assault logo in Cinzel"> | <img src="mohaa-logo-cinzel-reloaded.svg" width="180" alt="Medal of Honor Reloaded logo in Cinzel"> | Steel blue `#98BADF` on a dark grey `#414141` plate, the original's colours. |
+| <img src="mohaa-logo-transparent.svg" width="180" alt="Medal of Honor: Allied Assault logo, transparent"> | <img src="mohaa-logo-reloaded-transparent.svg?v=3" width="180" alt="Medal of Honor Reloaded logo, transparent"> | <img src="mohaa-logo-cinzel-transparent.svg" width="180" alt="Medal of Honor: Allied Assault logo in Cinzel, transparent"> | <img src="mohaa-logo-cinzel-reloaded-transparent.svg" width="180" alt="Medal of Honor Reloaded logo in Cinzel, transparent"> | Steel blue, without the plate. |
+| <img src="mohaa-logo-white.svg" width="180" alt="Medal of Honor: Allied Assault logo, white"> | <img src="mohaa-logo-reloaded-white.svg" width="180" alt="Medal of Honor Reloaded logo, white"> | <img src="mohaa-logo-cinzel-white.svg" width="180" alt="Medal of Honor: Allied Assault logo in Cinzel, white"> | <img src="mohaa-logo-cinzel-white-reloaded.svg" width="180" alt="Medal of Honor Reloaded logo in Cinzel, white"> | White. |
+| <img src="mohaa-logo-gold.svg" width="180" alt="Medal of Honor: Allied Assault logo, gold"> | <img src="mohaa-logo-reloaded-gold.svg" width="180" alt="Medal of Honor Reloaded logo, gold"> | <img src="mohaa-logo-cinzel-gold.svg" width="180" alt="Medal of Honor: Allied Assault logo in Cinzel, gold"> | <img src="mohaa-logo-cinzel-gold-reloaded.svg" width="180" alt="Medal of Honor Reloaded logo in Cinzel, gold"> | Gold (`#B8962E`). |
 
 ### Wordmark
 
