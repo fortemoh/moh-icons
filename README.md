@@ -45,9 +45,9 @@ Like the originals they are white, the colour the HUD tints, so they don't show 
 
 The polished outlines are drawn again from the same PNGs, as clean vectors: edges that are straight on the weapon are exactly straight, corners are crisp, and curved parts such as grips, trigger guards and stocks are smooth, with none of the pixel steps left. Which parts are curved is judged from renders and pictures of the weapon; the Thompson's grip and stock follow a picture of a real M1A1. Each still lines up with its PNG to within about a pixel, in a fifth to a third of the trace's segments, and is the same kind of file: one white path, the viewBox the PNG's size, holes running against the shapes around them. On the two scoped rifles, the Kar98k sniper and the Springfield, the gap between the scope and the rifle is opened again: the game's models have it, but the PNGs' 1-pixel border closed it. It is a little wider than on the models, so the scope still stands clear at HUD size.
 
-So far the Kar98k and its sniper version, the Thompson, the Colt .45, the MP40, the StG 44, the BAR and the Springfield are done; the rest of *Allied Assault*'s own weapons are to follow, the bazooka and the Panzerschreck aside. Traced against polished:
+So far the Kar98k and its sniper version, the Thompson, the Colt .45, the P38, the MP40, the StG 44, the BAR and the Springfield are done; the rest of *Allied Assault*'s own weapons are to follow, the bazooka and the Panzerschreck aside. Traced against polished:
 
-<img src="weapons/preview-polished.png" alt="The Kar98k, Kar98k sniper, Thompson, Colt .45, MP40, StG 44, BAR and Springfield outlines, white on dark grey: each trace on the left, its polished outline on the right">
+<img src="weapons/preview-polished.png" alt="The Kar98k, Kar98k sniper, Thompson, Colt .45, P38, MP40, StG 44, BAR and Springfield outlines, white on dark grey: each trace on the left, its polished outline on the right">
 
 ## Logo
 
