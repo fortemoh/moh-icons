@@ -6,15 +6,14 @@ Files are sorted by section: [`icons/`](icons) for the game icons, [`launcher/`]
 
 | Original&nbsp;design | New&nbsp;design | Alternative | Game | Based on |
 |:-:|:-:|:-:|---|---|
-| <img src="originals/mohaa.png" width="64" alt="Original Allied Assault icon"> | <img src="icons/mohaa.svg" width="64" alt="Allied Assault icon"> | | Allied Assault | The Allied star, the WWII vehicle marking. No background. |
+| <img src="originals/mohaa.png" width="64" alt="Original Allied Assault icon"> | <img src="icons/mohaa.svg" width="64" alt="Allied Assault icon"> | <img src="icons/mohaa-transparent.svg" width="64" alt="Allied Assault icon, transparent background"> | Allied Assault | The Allied star, the WWII vehicle marking, on black. The alternative has no background. |
 | <img src="originals/mohaa-spearhead.png" width="64" alt="Original Spearhead icon"> | <img src="icons/mohaa-spearhead.svg" width="64" alt="Spearhead icon"> | <img src="icons/mohaa-spearhead-transparent.svg" width="64" alt="Spearhead icon, transparent background"> | Spearhead | Three curved rank chevrons. The alternative has no background. |
 | <img src="originals/mohaa-breakthrough.png" width="64" alt="Original Breakthrough icon"> | <img src="icons/mohaa-breakthrough.svg" width="64" alt="Breakthrough icon"> | <img src="icons/mohaa-breakthrough-transparent.svg" width="64" alt="Breakthrough icon, transparent background"> | Breakthrough | The Special Forces patch: a dagger and three lightning bolts. The alternative has no background. |
 | | <img src="launcher/mohaa-launcher.svg" width="64" alt="Launcher icon, transparent background"> | <img src="launcher/mohaa-launcher-chevrons.svg" width="64" alt="Launcher icon: two chevrons over a curved banner"> | Launcher | A chain link, for connecting to a server. The alternative is two chevrons over a banner, after the Call of Duty Companion logo. |
-| | <img src="launcher/mohaa-launcher-chevrons-wordmark.svg" width="64" alt="Launcher icon: the chevron emblem over the MEDAL OF HONOR wordmark"> | | Launcher (alternative) | The chevrons over the Impact wordmark, laid out like the Call of Duty Companion icon. The lettering is too small to read below about 64px. |
 
-All the icons use the same gold (`#B8962E`), and the emblems break through the ring. Spearhead and Breakthrough keep their original backgrounds: green `#244C31` and indigo `#2C2564`. The originals are the games' 32×32 icons, in [`originals/`](originals).
+All the icons use the same gold (`#B8962E`), and the emblems break through the ring. Allied Assault, Spearhead and Breakthrough sit on discs in their original icons' colours: black, green `#244C31` and indigo `#2C2564`. The originals are the games' 32×32 icons, in [`originals/`](originals).
 
-The launcher icons also come in white and steel blue (`#98BADF`):
+All the launcher icons, in gold, white and steel blue (`#98BADF`):
 
 | Gold | White | Steel blue | Launcher icon |
 |:-:|:-:|:-:|---|
