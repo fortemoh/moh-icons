@@ -33,11 +33,11 @@ The HUD's team icons, redrawn from the markings they come from. The originals ar
 
 ## Weapons
 
-The HUD's 41 weapon pictures as clean outlines, in [`weapons/`](weapons): one white path each, sized to its PNG in [`originals/weapons/`](originals/weapons) so the two line up. Most of the expansions' weapons are drawn from the game's 3D models, the rest from the HUD's pictures. They are white, the colour the HUD tints, so here they are on dark grey:
+The HUD's 41 weapons as clean outlines, in [`weapons/`](weapons): one white path each, drawn from the game's 3D models. Each is a level side view, with the moving parts where the game holds them, at the size of its HUD picture in [`originals/weapons/`](originals/weapons). The stick grenade is drawn from its HUD picture. Breakthrough's two mine detectors, which have no HUD picture, are here too. [`killfeed/weapons/`](killfeed/weapons) has the same outlines facing right, for the kill feed. They are white, the colour the HUD tints, so here they are on dark grey:
 
 <img src="weapons/preview-polished.png" alt="Buy-menu cards on dark grey, each with its team and name: Allied Assault's Colt .45, P38, Thompson, MP40, BAR, StG 44, M1 Garand, Kar98k, Springfield, Kar98k sniper, M2 frag grenade, stick grenade, bazooka, Panzerschreck, shotgun and silenced pistol">
 
-<img src="weapons/preview-polished-expansions.png" alt="Buy-menu cards on dark grey, each with its team and name: the expansions' Lee-Enfield, L42A1 sniper, De Lisle, Sten, Vickers, PIAT, Webley, Mills bomb, Mosin-Nagant, SVT-40, PPSh-41, Nagant revolver, F1 grenade, RDG-1 and M18 smoke grenades, Carcano, Moschetto, Breda, Beretta, the two Italian grenades, Gewehr 43, Kar98k grenade launcher, German smoke grenade and binoculars">
+<img src="weapons/preview-polished-expansions.png" alt="Buy-menu cards on dark grey, each with its team and name: the expansions' Lee-Enfield, L42A1 sniper, De Lisle, Sten, Vickers, PIAT, Webley, Mills bomb, Mosin-Nagant, SVT-40, PPSh-41, Nagant revolver, F1 grenade, RDG-1 and M18 smoke grenades, Carcano, Moschetto, Breda, Beretta, the two Italian grenades, Gewehr 43, Kar98k grenade launcher, German smoke grenade, binoculars and the two mine detectors">
 
 The kill feed icons (the glove, the headshot and the skull) are in [`killfeed/traced/`](killfeed/traced), traced from their PNGs.
 
