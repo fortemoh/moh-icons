@@ -13,6 +13,14 @@ Files are sorted by section: [`icons/`](icons) for the game icons, [`launcher/`]
 
 All the icons use the same gold (`#B8962E`), and the emblems break through the ring. Allied Assault, Spearhead and Breakthrough sit on discs in their original icons' colours: black, green `#244C31` and indigo `#2C2564`. The originals are the games' 32×32 icons, in [`originals/`](originals).
 
+The game icons' transparent alternatives also come in white and steel blue (`#98BADF`):
+
+| Gold | White | Steel blue | Game |
+|:-:|:-:|:-:|---|
+| <img src="icons/mohaa-transparent.svg" width="64" alt="Allied Assault icon, transparent background, gold"> | <img src="icons/mohaa-transparent-white.svg" width="64" alt="Allied Assault icon, transparent background, white"> | <img src="icons/mohaa-transparent-blue.svg" width="64" alt="Allied Assault icon, transparent background, steel blue"> | Allied Assault |
+| <img src="icons/mohaa-spearhead-transparent.svg" width="64" alt="Spearhead icon, transparent background, gold"> | <img src="icons/mohaa-spearhead-transparent-white.svg" width="64" alt="Spearhead icon, transparent background, white"> | <img src="icons/mohaa-spearhead-transparent-blue.svg" width="64" alt="Spearhead icon, transparent background, steel blue"> | Spearhead |
+| <img src="icons/mohaa-breakthrough-transparent.svg" width="64" alt="Breakthrough icon, transparent background, gold"> | <img src="icons/mohaa-breakthrough-transparent-white.svg" width="64" alt="Breakthrough icon, transparent background, white"> | <img src="icons/mohaa-breakthrough-transparent-blue.svg" width="64" alt="Breakthrough icon, transparent background, steel blue"> | Breakthrough |
+
 All the launcher icons, in gold, white and steel blue (`#98BADF`):
 
 | Gold | White | Steel blue | Launcher icon |
