@@ -2,7 +2,7 @@
 
 SVG icons for *Medal of Honor: Allied Assault* and its two expansions.
 
-Files are sorted by section: [`icons/`](icons) for the game icons, [`launcher/`](launcher) for the launcher icons, [`team/`](team) for the team icons, [`weapons/`](weapons) and [`killfeed/`](killfeed) for the HUD's weapon pictures and kill feed icons, and [`logo/`](logo) for the logos, in [`original/`](logo/original), [`cinzel/`](logo/cinzel), [`wordmark/`](logo/wordmark), [`lockup/`](logo/lockup) and [`impact/`](logo/impact). The games' own icons and logo are in [`originals/`](originals), with the HUD pictures the weapons are drawn from, and the *Call of Duty* logos in [`comparison/`](comparison).
+Files are sorted by section: [`icons/`](icons) for the game icons, [`launcher/`](launcher) for the launcher icons, [`team/`](team) for the team icons, [`forte/`](forte) for the FORTE logo, [`weapons/`](weapons) and [`killfeed/`](killfeed) for the HUD's weapon pictures and kill feed icons, and [`logo/`](logo) for the logos, in [`original/`](logo/original), [`cinzel/`](logo/cinzel), [`wordmark/`](logo/wordmark), [`lockup/`](logo/lockup) and [`impact/`](logo/impact). The games' own icons and logo are in [`originals/`](originals), with the HUD pictures the weapons are drawn from, and the *Call of Duty* logos in [`comparison/`](comparison).
 
 | Original&nbsp;design | New&nbsp;design | Alternative | Game | Based on |
 |:-:|:-:|:-:|---|---|
@@ -133,6 +133,18 @@ With OF, the star bar and AA in a column after MEDAL and HONOR, which are spaced
 | <img src="logo/impact/mohaa-logo-impact-stacked-aa-gold.svg" width="170" alt="Stacked Medal of Honor wordmark in Impact with AA, gold"> | <img src="logo/impact/mohaa-logo-impact-stacked-aa-reloaded-gold.svg" width="170" alt="Stacked Medal of Honor Reloaded wordmark in Impact with AA, gold"> | Gold (`#B8962E`), no background. |
 | <img src="logo/impact/mohaa-logo-impact-stacked-aa-white.svg" width="170" alt="Stacked Medal of Honor wordmark in Impact with AA, white"> | <img src="logo/impact/mohaa-logo-impact-stacked-aa-reloaded-white.svg" width="170" alt="Stacked Medal of Honor Reloaded wordmark in Impact with AA, white"> | White, no background. |
 | <img src="logo/impact/mohaa-logo-impact-stacked-aa-blue.svg" width="170" alt="Stacked Medal of Honor wordmark in Impact with AA, steel blue"> | <img src="logo/impact/mohaa-logo-impact-stacked-aa-reloaded-blue.svg" width="170" alt="Stacked Medal of Honor Reloaded wordmark in Impact with AA, steel blue"> | Steel blue (`#98BADF`), no background. |
+
+## FORTE
+
+FORTE over the three game icons, on black, in [`forte/`](forte). The icons are the repo's own: Allied Assault transparent, Spearhead and Breakthrough on their discs, or all three transparent. The lettering is as wide as the row of icons; the versions set in a font are centred.
+
+| Discs | Transparent | Lettering |
+|:-:|:-:|---|
+| <img src="forte/forte.svg" width="200" alt="FORTE over the Allied Assault, Spearhead and Breakthrough icons"> | <img src="forte/forte-transparent.svg" width="200" alt="FORTE over the Allied Assault, Spearhead and Breakthrough icons, transparent icons"> | Your original lettering, traced from [`originals/forte.webp`](originals/forte.webp). |
+| <img src="forte/forte-impact.svg" width="200" alt="FORTE over the Allied Assault, Spearhead and Breakthrough icons"> | <img src="forte/forte-impact-transparent.svg" width="200" alt="FORTE over the Allied Assault, Spearhead and Breakthrough icons, transparent icons"> | Impact. |
+| <img src="forte/forte-hitmarker.svg" width="200" alt="FORTE over the Allied Assault, Spearhead and Breakthrough icons"> | <img src="forte/forte-hitmarker-transparent.svg" width="200" alt="FORTE over the Allied Assault, Spearhead and Breakthrough icons, transparent icons"> | Hitmarker Normal Bold. |
+| <img src="forte/forte-hitmarker-black.svg" width="200" alt="FORTE over the Allied Assault, Spearhead and Breakthrough icons"> | <img src="forte/forte-hitmarker-black-transparent.svg" width="200" alt="FORTE over the Allied Assault, Spearhead and Breakthrough icons, transparent icons"> | Hitmarker Normal Black. |
+| <img src="forte/forte-cs2.svg" width="200" alt="FORTE over the Allied Assault, Spearhead and Breakthrough icons"> | <img src="forte/forte-cs2-transparent.svg" width="200" alt="FORTE over the Allied Assault, Spearhead and Breakthrough icons, transparent icons"> | Michroma made bolder like the *Counter-Strike 2* lettering, upright. |
 
 ## Credits
 
