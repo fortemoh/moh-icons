@@ -73,6 +73,13 @@ MEDAL, OF over the star bar, HONOR and ALLIED ASSAULT, with no frame or ring, in
 
 Gold is `#B8962E` and steel blue `#98BADF`.
 
+For the expansions, the RELOADED wordmark with SH or BT in front, over a star bar like OF after MEDAL; together they are as tall as RELOADED:
+
+| Gold | White | Steel blue | Expansion |
+|:-:|:-:|:-:|---|
+| <img src="logo/wordmark/mohaa-wordmark-reloaded-spearhead.svg" width="200" alt="Medal of Honor SH Reloaded wordmark in Cinzel, gold"> | <img src="logo/wordmark/mohaa-wordmark-reloaded-spearhead-white.svg" width="200" alt="Medal of Honor SH Reloaded wordmark in Cinzel, white"> | <img src="logo/wordmark/mohaa-wordmark-reloaded-spearhead-blue.svg" width="200" alt="Medal of Honor SH Reloaded wordmark in Cinzel, steel blue"> | Spearhead (SH) |
+| <img src="logo/wordmark/mohaa-wordmark-reloaded-breakthrough.svg" width="200" alt="Medal of Honor BT Reloaded wordmark in Cinzel, gold"> | <img src="logo/wordmark/mohaa-wordmark-reloaded-breakthrough-white.svg" width="200" alt="Medal of Honor BT Reloaded wordmark in Cinzel, white"> | <img src="logo/wordmark/mohaa-wordmark-reloaded-breakthrough-blue.svg" width="200" alt="Medal of Honor BT Reloaded wordmark in Cinzel, steel blue"> | Breakthrough (BT) |
+
 ### Impact wordmarks
 
 MEDAL OF HONOR on one line in Impact, with and without the star bar under OF. The Reloaded versions add RELOADED underneath, at the size of the original logo's third line. The layout follows the pre-2023 *Call of Duty* wordmark, recreated here in Impact from memory:
