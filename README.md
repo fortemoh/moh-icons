@@ -2,7 +2,7 @@
 
 SVG icons for *Medal of Honor: Allied Assault* and its two expansions.
 
-Files are sorted by section: [`icons/`](icons) for the game icons, [`launcher/`](launcher) for the launcher icons, [`team/`](team) for the team icons, [`weapons/`](weapons) and [`killfeed/`](killfeed) for the HUD's weapon pictures and kill feed icons, and [`logo/`](logo) for the logos, in [`original/`](logo/original), [`cinzel/`](logo/cinzel), [`wordmark/`](logo/wordmark) and [`impact/`](logo/impact). The games' own icons and logo are in [`originals/`](originals), with the HUD pictures the weapons are drawn from, and the *Call of Duty* logos in [`comparison/`](comparison).
+Files are sorted by section: [`icons/`](icons) for the game icons, [`launcher/`](launcher) for the launcher icons, [`team/`](team) for the team icons, [`weapons/`](weapons) and [`killfeed/`](killfeed) for the HUD's weapon pictures and kill feed icons, and [`logo/`](logo) for the logos, in [`original/`](logo/original), [`cinzel/`](logo/cinzel), [`wordmark/`](logo/wordmark), [`lockup/`](logo/lockup) and [`impact/`](logo/impact). The games' own icons and logo are in [`originals/`](originals), with the HUD pictures the weapons are drawn from, and the *Call of Duty* logos in [`comparison/`](comparison).
 
 | Original&nbsp;design | New&nbsp;design | Alternative | Game | Based on |
 |:-:|:-:|:-:|---|---|
@@ -85,6 +85,15 @@ For the expansions, the RELOADED wordmark becomes SH: RELOADED and BT: RELOADED,
 | <img src="logo/wordmark/mohaa-wordmark-reloaded-breakthrough-badge.svg" width="200" alt="Medal of Honor BT Reloaded wordmark in Cinzel, gold, with BT cut out of a coloured badge"> | <img src="logo/wordmark/mohaa-wordmark-reloaded-breakthrough-badge-white.svg" width="200" alt="Medal of Honor BT Reloaded wordmark in Cinzel, white, with BT cut out of a coloured badge"> | <img src="logo/wordmark/mohaa-wordmark-reloaded-breakthrough-badge-blue.svg" width="200" alt="Medal of Honor BT Reloaded wordmark in Cinzel, steel blue, with BT cut out of a coloured badge"> | Cinzel, BT cut out of a indigo `#8278E0` badge. |
 | <img src="logo/wordmark/mohaa-wordmark-garamond-reloaded-spearhead-badge.svg" width="200" alt="Medal of Honor SH Reloaded wordmark in Garamond, gold, with SH cut out of a coloured badge"> | <img src="logo/wordmark/mohaa-wordmark-garamond-reloaded-spearhead-badge-white.svg" width="200" alt="Medal of Honor SH Reloaded wordmark in Garamond, white, with SH cut out of a coloured badge"> | <img src="logo/wordmark/mohaa-wordmark-garamond-reloaded-spearhead-badge-blue.svg" width="200" alt="Medal of Honor SH Reloaded wordmark in Garamond, steel blue, with SH cut out of a coloured badge"> | Garamond, SH cut out of a green `#62B076` badge. |
 | <img src="logo/wordmark/mohaa-wordmark-garamond-reloaded-breakthrough-badge.svg" width="200" alt="Medal of Honor BT Reloaded wordmark in Garamond, gold, with BT cut out of a coloured badge"> | <img src="logo/wordmark/mohaa-wordmark-garamond-reloaded-breakthrough-badge-white.svg" width="200" alt="Medal of Honor BT Reloaded wordmark in Garamond, white, with BT cut out of a coloured badge"> | <img src="logo/wordmark/mohaa-wordmark-garamond-reloaded-breakthrough-badge-blue.svg" width="200" alt="Medal of Honor BT Reloaded wordmark in Garamond, steel blue, with BT cut out of a coloured badge"> | Garamond, BT cut out of a indigo `#8278E0` badge. |
+
+### Lockup
+
+The three game icons in a triangle, Allied Assault on top and Spearhead and Breakthrough below, beside the RELOADED wordmark. The triangle is as tall as the lettering and centred on it, all in gold, in [`logo/lockup/`](logo/lockup):
+
+| Lockup | Wordmark |
+|:-:|---|
+| <img src="logo/lockup/mohaa-lockup-reloaded.svg" width="400" alt="The Allied Assault, Spearhead and Breakthrough icons in a triangle beside the Medal of Honor Reloaded wordmark in Cinzel, gold"> | Cinzel. |
+| <img src="logo/lockup/mohaa-lockup-garamond-reloaded.svg" width="400" alt="The Allied Assault, Spearhead and Breakthrough icons in a triangle beside the Medal of Honor Reloaded wordmark in Garamond, gold"> | Garamond. |
 
 ### Impact wordmarks
 
